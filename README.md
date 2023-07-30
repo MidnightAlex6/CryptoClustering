@@ -1,4 +1,4 @@
-# CryptoClustering
+# Crypto Clustering
 
 ## Background
 
